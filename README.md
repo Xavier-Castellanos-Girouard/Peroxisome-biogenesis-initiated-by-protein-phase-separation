@@ -1,6 +1,8 @@
 # Peroxisome-biogenesis-initiated-by-protein-phase-separation
 
-# The scripts in the subdirectories were used to calculate Tau values for fusion events in 8 videos. These analyses pertain to figure 3.
+
+The scripts in the subdirectories were used to calculate Tau values for fusion events in 8 videos. These analyses pertain to figure 3.
+
 
  Each video is classed into its own directory. Each fusion event for a video is classed into a subdirectory.
 
