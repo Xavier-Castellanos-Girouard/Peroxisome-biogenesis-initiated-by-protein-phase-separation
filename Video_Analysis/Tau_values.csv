@@ -1,0 +1,19 @@
+Video_name, Fusion_Number,Frame_Range_Start,Frame_Range_Finish,tau_value
+FastTimeLapse_200uM_frame_30_to_70,1,380,440,0.08474
+FastTimeLapse_200uM_frame_240-280,1,240,300,0.2211
+Video_1,1,10,60,0.1124
+Video_1,2,230,290,0.04425
+Video_2,1,24,51,0.08649
+Video_3,1,10,60,0.07686
+Video_3,2,65,110,0.1126
+Video_3,3,200,250,0.08724
+Video_4,1,340,400,0.07434
+Video_4,2,420,500,0.123
+Video_4,3,450,500,0.05954
+Video_5,1,410,470,0.09379
+Video_5,2,420,480,0.06034
+Video_5,3,450,500,0.06986
+Video_6,1,0,60,0.0644
+Video_6,2,20,90,0.1285
+Video_6,3,310,370,0.06101
+Video_6,4,340,400,0.05657
